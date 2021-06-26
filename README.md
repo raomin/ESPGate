@@ -1,5 +1,6 @@
+<p align="center">
 ![](doc/images/logo.png)
-
+</p>
 <hr/>
 
 <p align="center">
@@ -9,8 +10,6 @@
 &nbsp;
 <img src="https://img.shields.io/github/license/raomin/ESPGate?style=for-the-badge" />
 &nbsp;
-<a href="https://github.com/sponsors/raomin/"><img src="https://github.com/raomin/ESPGate/blob/main/doc/images/sponsor.png?raw=true"></a>
-&nbsp;
 <a href="https://www.buymeacoffee.com/raomin" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20beer-%245-orange?style=for-the-badge&logo=buy-me-a-beer" /></a>
 </p>
 
@@ -18,7 +17,7 @@
 
 <p><b>ESPGate</b> is a solution to control your electric gate with HomeAssistant using just an <b>ESP8266 or ESP32</b>.</p>
 
-_If this project has any value for you, please consider [buying me a 🍺](https://www.buymeacoffee.com/raomin)!. I don't do this for money but it feels good to get some support! Thanks :)_ 
+_If this project has any value for you, please consider <b>[buying me a 🍺](https://www.buymeacoffee.com/raomin)</b>!. I don't do this for money but it feels good to get some support! Thanks :)_ 
 
 ## Features
 ![](doc/images/schema.png)
