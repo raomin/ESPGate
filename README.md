@@ -1,4 +1,4 @@
-<img src="doc/images/schema.png" align="center"/>
+<img src="doc/images/logo.png" align="center"/>
 <hr/>
 
 <p align="center">
