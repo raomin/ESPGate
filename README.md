@@ -91,9 +91,14 @@ If you cannot find a suitable 5V, you'll most probably find 12V (eg for the phot
 
 # FAQ
 
-#### How can I determine if the gate is opened or closed?
+### How can I determine if the gate is opened or closed?
 
 There is no easy way of doing this. I'm still wondering myself...
+
+
+### Is it safe? Can I break my opener?
+
+It is as safe as interacting with a device can be. Pretty safe if you are a bit careful. Play it safe with a relay and a DC regulator if you prefer. Use is entirely at your own risk. No liability.
 
 # How can I contribute?
 
