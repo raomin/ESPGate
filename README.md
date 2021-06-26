@@ -1,6 +1,4 @@
-<p align="center">
-![](doc/images/logo.png)
-</p>
+<img src="/raomin/ESPGate/raw/master/doc/images/schema.png" align="center"/>
 <hr/>
 
 <p align="center">
